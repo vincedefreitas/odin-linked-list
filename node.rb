@@ -6,3 +6,9 @@ class Node
     @next_node = next_node
   end
 end
+
+# my_node = Node.new 
+# puts 'my_node.value'
+# p my_node.value
+# puts 'my_node.next_node'
+# p my_node.next_node
